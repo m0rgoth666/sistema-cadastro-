@@ -56,7 +56,7 @@ def lista_cadastros(lista):
             # A função enumerate nos da dois valores
             # i - o indice (numero do cadastro)
             # pessoa - o dicionário contendo os dados de uma pessoa 
-            # A partir disso, os dados informados de cada pessoa 
+            # A partir disso, os dados são informados de cada pessoa 
             print(f"{i}. Nome: {pessoa['nome']} | Idade: {pessoa['idade']} | Sexo: {pessoa['sexo']} | Email: {pessoa['email']} ")    
 
     
