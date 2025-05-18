@@ -2,7 +2,7 @@ import json
 import os 
 
 #Definicao do arquivo json
-ARQUIVO = "dados_pessoais.json" #ARQUIVO variavel globar, armazenando o valor "dados_pessoais.json"
+ARQUIVO = "dados_pessoais.json" #ARQUIVO variavel global, armazenando o valor "dados_pessoais.json"
 
 
 # Função para carregar dados do arquivo json 
